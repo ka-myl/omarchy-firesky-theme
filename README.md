@@ -32,16 +32,6 @@ To install this theme, simply use the `omarchy-theme-install` command:
 omarchy-theme-install https://github.com/bjarneo/omarchy-firesky-theme
 ```
 
-### Vesktop
-
-For Vesktop users, you can install this theme by copying the theme file to your Vesktop themes directory:
-
-```bash
-cp firesky.theme.css ~/.config/vesktop/themes/firesky.theme.css
-```
-
 ## Neovim Theme
 https://github.com/bjarneo/firesky.nvim
 
-## X.com
-[iamdothash](https://x.com/iamdothash)
